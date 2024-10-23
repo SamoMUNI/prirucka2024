@@ -25,3 +25,5 @@
 
 ## Lekce 03: Whisper
 {% include_relative 03_whisper/README.md %}
+
+## SamoMUNI meni tento suborik a commituje zmeny jajx
